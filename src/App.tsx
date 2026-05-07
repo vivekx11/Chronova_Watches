@@ -1,4 +1,4 @@
-// lib are been import 
+// lib are been import.
 
 import { ShoppingBag, User, ArrowRight, Share2, Globe, Mail } from 'lucide-react';
 import { motion } from 'motion/react';
