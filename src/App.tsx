@@ -8,7 +8,7 @@ import { useState, useEffect } from 'react';
  * @license
  * SPDX-License-Identifier: Apache-2.0
  */
-
+// navigation 
 const NAV_ITEMS = ['Collections', 'Heritage', 'Concierge', 'Journal'];
 const CATEGORIES = ['SMART', 'LUXURY', 'SPORTS', 'VINTAGE', 'MINIMAL', "WOMEN'S"];
 const PARTNERS = ['GENEVE', 'HORA', 'STELLAR', 'OBSIDIAN', 'VALEUR'];
