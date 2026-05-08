@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=Space+Grotesk:wght@500;700&display=swap');
 @import "tailwindcss";
-
+/* colour plate */
 @theme {
   --color-surface: #121414;
   --color-surface-container: #1e2020;
